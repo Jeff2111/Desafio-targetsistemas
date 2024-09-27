@@ -12,7 +12,7 @@ public class Questao_5_InverterString {
         // Chamar o método que inverte a string
         String invertida = inverterString(original);
 
-        // Imprime a string invertida
+        // Imprimir a string invertida
         System.out.println("Palavra invertida: " + invertida);
     }
 

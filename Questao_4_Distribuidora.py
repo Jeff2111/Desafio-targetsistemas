@@ -2,7 +2,7 @@ def calcular_percentuais(faturamentos):
     # Calcular o faturamento total
     total = sum(faturamentos.values())
     
-    # Calcular e imprime o percentual de cada estado
+    # Calcular e imprimir o percentual de cada estado
     for estado, valor in faturamentos.items():
         percentual = (valor / total) * 100
         print(f"{estado}: R${valor:.2f} - {percentual:.2f}% de representação")
