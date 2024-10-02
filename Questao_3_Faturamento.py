@@ -8,9 +8,9 @@ def main():
 
         faturamentos = []
 
-        # chamando cada elemento "dia" e adiciona o valor de faturamento à lista
-        for dia in root.findall('dia'):
-            valor = float(dia.find('valor').text)
+        # chamando cada elemento "row" e adiciona o valor de faturamento à lista
+        for row in root.findall('row'):
+            valor = float(row.find('valor').text)
             if valor > 0:
                 faturamentos.append(valor)
 
@@ -20,7 +20,7 @@ def main():
         max_faturamento = max(faturamentos, default=0)
         min_faturamento = min(faturamentos, default=0)
         media = sum(faturamentos) / len(faturamentos) if faturamentos else 0 
-        media = round (valor, 2)
+        media = round (media, 2)
 
 
         # calcular os dias com faturamentos acima da media

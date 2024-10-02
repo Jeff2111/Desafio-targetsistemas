@@ -1,122 +1,122 @@
 <dados>
-  <dia>
-    <numero>1</numero>
-    <valor>25834.16</valor>
-  </dia>
-  <dia>
-    <numero>2</numero>
-    <valor>27345.67</valor>
-  </dia>
-  <dia>
-    <numero>3</numero>
-    <valor>28677.32</valor>
-  </dia>
-  <dia>
-    <numero>4</numero>
-    <valor>31245.89</valor>
-  </dia>
-  <dia>
-    <numero>5</numero>
-    <valor>44812.56</valor>
-  </dia>
-  <dia>
-    <numero>6</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>7</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>8</numero>
-    <valor>47732.45</valor>
-  </dia>
-  <dia>
-    <numero>9</numero>
-    <valor>13752.48</valor>
-  </dia>
-  <dia>
-    <numero>10</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>11</numero>
-    <valor>675.45</valor>
-  </dia>
-  <dia>
-    <numero>12</numero>
-    <valor>3235.56</valor>
-  </dia>
-  <dia>
-    <numero>13</numero>
-    <valor>51432.98</valor>
-  </dia>
-  <dia>
-    <numero>14</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>15</numero>
-    <valor>21345.87</valor>
-  </dia>
-  <dia>
-    <numero>16</numero>
-    <valor>36589.23</valor>
-  </dia>
-  <dia>
-    <numero>17</numero>
-    <valor>46237.68</valor>
-  </dia>
-  <dia>
-    <numero>18</numero>
-    <valor>19845.67</valor>
-  </dia>
-  <dia>
-    <numero>19</numero>
-    <valor>5634.23</valor>
-  </dia>
-  <dia>
-    <numero>20</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>21</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>22</numero>
-    <valor>27645.31</valor>
-  </dia>
-  <dia>
-    <numero>23</numero>
-    <valor>2389.56</valor>
-  </dia>
-  <dia>
-    <numero>24</numero>
-    <valor>15689.43</valor>
-  </dia>
-  <dia>
-    <numero>25</numero>
-    <valor>9243.67</valor>
-  </dia>
-  <dia>
-    <numero>26</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>27</numero>
-    <valor>0.0</valor>
-  </dia>
-  <dia>
-    <numero>28</numero>
-    <valor>25834.16</valor>
-  </dia>
-  <dia>
-    <numero>29</numero>
-    <valor>27345.67</valor>
-  </dia>
-  <dia>
-    <numero>30</numero>
-    <valor>28677.32</valor>
-  </dia>
+<row>
+  <dia>1</dia>
+  <valor>31490.7866</valor>
+</row>
+<row>
+  <dia>2</dia>
+  <valor>37277.9400</valor>
+</row>
+<row>
+  <dia>3</dia>
+  <valor>37708.4303</valor>
+</row>
+<row>
+  <dia>4</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>5</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>6</dia>
+  <valor>17934.2269</valor>
+</row>
+<row>
+  <dia>7</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>8</dia>
+  <valor>6965.1262</valor>
+</row>
+<row>
+  <dia>9</dia>
+  <valor>24390.9374</valor>
+</row>
+<row>
+  <dia>10</dia>
+  <valor>14279.6481</valor>
+</row>
+<row>
+  <dia>11</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>12</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>13</dia>
+  <valor>39807.6622</valor>
+</row>
+<row>
+  <dia>14</dia>
+  <valor>27261.6304</valor>
+</row>
+<row>
+  <dia>15</dia>
+  <valor>39775.6434</valor>
+</row>
+<row>
+  <dia>16</dia>
+  <valor>29797.6232</valor>
+</row>
+<row>
+  <dia>17</dia>
+  <valor>17216.5017</valor>
+</row>
+<row>
+  <dia>18</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>19</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>20</dia>
+  <valor>12974.2000</valor>
+</row>
+<row>
+  <dia>21</dia>
+  <valor>28490.9861</valor>
+</row>
+<row>
+  <dia>22</dia>
+  <valor>8748.0937</valor>
+</row>
+<row>
+  <dia>23</dia>
+  <valor>8889.0023</valor>
+</row>
+<row>
+  <dia>24</dia>
+  <valor>17767.5583</valor>
+</row>
+<row>
+  <dia>25</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>26</dia>
+  <valor>0.0000</valor>
+</row>
+<row>
+  <dia>27</dia>
+  <valor>3071.3283</valor>
+</row>
+<row>
+  <dia>28</dia>
+  <valor>48275.2994</valor>
+</row>
+<row>
+  <dia>29</dia>
+  <valor>10299.6761</valor>
+</row>
+<row>
+  <dia>30</dia>
+  <valor>39874.1073</valor>
+</row>
 </dados>
