@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Questao_2_Fibonacci {
+public class Questao_1_Fibonacci {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)){
             
